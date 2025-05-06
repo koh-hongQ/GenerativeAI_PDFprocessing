@@ -16,7 +16,7 @@ tesseract_lang = "kor+eng"
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # 네이버클로바OCR API
-secret_key = API"입력하시오"  # 클로바 OCR 시크릿 키
+secret_key = "API입력하시오"  # 클로바 OCR 시크릿 키
 api_url = "API입력하시오"  # 클로바 OCR 엔드포인트 URL
 
 
